@@ -1,0 +1,29 @@
+body{
+    color: rgb(0, 191, 255);
+}
+
+.myForm {
+    width: 20%;
+    margin: 5% auto;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+}
+
+.que {
+    margin: 5% 15%;
+}
+
+.val {
+    width: 60%;
+    overflow: hidden;
+    border: hidden;
+    border-bottom: solid 1px;
+    background-color: transparent;
+}
+
+.submit {
+    color: rgb(0, 191, 255);
+    border-color: black;
+    width: 60%;
+}
